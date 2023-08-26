@@ -1,0 +1,114 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "nickname": "Admin",
+      "image": "user.png",
+      "puan": 45,
+      "username": "admin",
+      "posts_id": [1, 2, 3],
+      "verification": true,
+      "approval": true,
+      "authorization": "Admin",
+      "socials": [
+        { 
+          "instagram": "https://www.instagram.com/metehanncekici/"
+        },
+        {
+          "facebook": "https://www.facebook.com/metehan-cekici/"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/metehan-cekici/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nickname": "Kübra Bozdağlı",
+      "image": "user.png",
+      "puan": 100,
+      "username": "kubrabozdagli",
+      "posts_id": [4, 6],
+      "verification": false,
+      "approval": false,
+      "authorization": "Üye",
+      "socials": [
+        {
+          "instagram": "https://www.instagram.com/kubrabozdagli/"
+        },
+        {
+          "facebook": "https://www.facebook.com/kubra-bozdagli/"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/kubra-bozdagli/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nickname": "Mustafa Özdemir",
+      "image": "user.png",
+      "puan": 10,
+      "username": "mustafaozdmr27",
+      "posts_id": [],
+      "verification": false,
+      "approval": true,
+      "authorization": "Üye",
+      "socials": [
+        {
+          "instagram": "https://www.instagram.com/mustafaozdmr2727/"
+        },
+        {
+          "facebook": "https://www.facebook.com/mustafa-ozdemir270127/"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/mustafa-ozdmr27020213/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nickname": "Süleyman Pro",
+      "image": "user.png",
+      "puan": 35,
+      "username": "suleymanpro14",
+      "posts_id": [7],
+      "verification": true,
+      "approval": true,
+      "authorization": "Üye",
+      "socials": [
+        {
+          "instagram": "https://www.instagram.com/suleymanpro14/"
+        },
+        {
+          "facebook": "https://www.facebook.com/suleymanpro14/"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/suleymanpro14/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nickname": "Sultan",
+      "image": "user.png",
+      "puan": 5,
+      "username": "sultangumus01",
+      "posts_id": [5],
+      "verification": false,
+      "approval": true,
+      "authorization": "Üye",
+      "socials": [
+        {
+          "instagram": "https://www.instagram.com/sultangumus01/"
+        },
+        {
+          "facebook": "https://www.facebook.com/sultangumus01/"
+        },
+        {
+          "linkedin": "https://www.linkedin.com/in/sultangumus01/"
+        }
+      ]
+    }
+  ]
+}

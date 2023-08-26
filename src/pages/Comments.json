@@ -1,0 +1,40 @@
+{
+  "Comments": [
+    {
+      "id": 1,
+      "author_id": 1,
+      "post_id": 1,
+      "post_url": "nasil-hacker-olunur",
+      "date": "16 Ağustos 2023",
+      "text": "Bu deneme amaçlı girilen bir yorumdur!",
+      "visibility": true
+    },
+    {
+      "id": 2,
+      "author_id": 2,
+      "post_id": 2,
+      "post_url": "bu-makarnanin-lezzeti-dunyada-1-numara",
+      "date": "11 Ağustos 2023",
+      "text": "Bu makarna tarifini gerçekten çok beğendim",
+      "visibility": true
+    },
+    {
+      "id": 3,
+      "author_id": 2,
+      "post_id": 5,
+      "post_url": "blog-scripti-son-deneme-yazilari",
+      "date": "13 Ağustos 2023",
+      "text": "Bu tarz içeriklerin devamını istiyoruz",
+      "visibility": false
+    },
+    {
+      "id": 4,
+      "author_id": 4,
+      "post_id": 5,
+      "post_url": "blog-scripti-son-deneme-yazilari",
+      "date": "17 Ağustos 2023",
+      "text": "Bilgi için çok teşekkür ederim. Blog scripti kurmayı sayende bir kez daha tekrar etmiş oldum :)",
+      "visibility": false
+    }
+  ]
+}
